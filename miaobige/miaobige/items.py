@@ -12,6 +12,7 @@ class BookItem(scrapy.Item):
     click_count = scrapy.Field()
     thumb = scrapy.Field()
     status = scrapy.Field()
+    category = scrapy.Field()
     description = scrapy.Field()
     book_id = scrapy.Field()
 

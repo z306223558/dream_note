@@ -3,7 +3,7 @@ djongo
 pymongo
 scrapy
 django-filter==2.1.0
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 drf-yasg==1.15.0                        # API文档
 django-cors-headers==2.4.0              # 跨域 2.4.0

@@ -10,7 +10,7 @@ django-cors-headers==2.4.0              # 跨域 2.4.0
 pillow==6.0.0                           # Django ImageField支持库
 django-easy-select2==1.5.5              # 多对多字段admin插件
 djangorestframework-recursive==0.1.2
-django-debug-toolbar==1.11              # debug工具栏
+django-debug-toolbar==1.11.1              # debug工具栏
 # django-jet==1.0.8                       # 自定义admin界面
 FeedParser==5.2.1
 cryptography==2.6.1                     # 加密
